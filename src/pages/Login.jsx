@@ -6,7 +6,7 @@ import logo2 from "../assets/FurniFlex.png";
 
 const Login = () => {
     return (
-        <div className="min-h-screen flex items-center justify-center">
+        <div className="min-h-screen flex items-center justify-center my-10">
             <div className="flex flex-col md:flex-row items-center bg-white shadow-lg max-w-6xl w-full rounded-lg overflow-hidden">
 
                 <div className="w-full md:w-1/2 p-10">

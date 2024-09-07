@@ -7,7 +7,7 @@ import logo3 from "../assets/FurniFlex1.png";
 
 const Register = () => {
     return (
-        <div className="min-h-screen flex items-center justify-center">
+        <div className="min-h-screen flex items-center justify-center my-10">
             <div className="flex flex-col md:flex-row items-center bg-white shadow-lg max-w-6xl w-full rounded-lg overflow-hidden">
 
                 {/* Left side */}
