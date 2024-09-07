@@ -29,11 +29,11 @@ const Navbar = () => {
 
                             <Link to={"products"} > <li><a>Products</a></li></Link>
 
-                            <Link to={"/"} >  <li><a>Categories</a></li></Link>
+                            <Link to={""} >  <li><a>Categories</a></li></Link>
 
-                            <Link to={"/"} >  <li><a>Custom</a></li></Link>
+                            <Link to={""} >  <li><a>Custom</a></li></Link>
 
-                            <Link to={"/"} >  <li><a>Blog</a></li></Link>
+                            <Link to={""} >  <li><a>Blog</a></li></Link>
                         </ul>
                     </div>
                     <Link to={"/"}><img className="h-[38px] w-[134px]" src={logo} alt="" /></Link>
@@ -45,11 +45,11 @@ const Navbar = () => {
 
                         <Link to={"products"} > <li><a>Products</a></li></Link>
 
-                        <Link to={"/"} >  <li><a>Categories</a></li></Link>
+                        <Link to={""} >  <li><a>Categories</a></li></Link>
 
-                        <Link to={"/"} >  <li><a>Custom</a></li></Link>
+                        <Link to={""} >  <li><a>Custom</a></li></Link>
 
-                        <Link to={"/"} >  <li><a>Blog</a></li></Link>
+                        <Link to={""} >  <li><a>Blog</a></li></Link>
 
                     </ul>
                 </div>
