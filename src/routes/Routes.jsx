@@ -5,6 +5,7 @@ import Products from "../pages/Products";
 import Login from "../pages/Login";
 import Register from "../pages/Register";
 
+
 const router = createBrowserRouter([
     {
         path: "/",
@@ -26,6 +27,7 @@ const router = createBrowserRouter([
                 path: "register",
                 element: <Register />
             },
+
 
         ]
     }
